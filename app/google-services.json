@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26301765827",
+    "firebase_url": "https://gconnect-f4b35-default-rtdb.firebaseio.com",
+    "project_id": "gconnect-f4b35",
+    "storage_bucket": "gconnect-f4b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26301765827:android:95ba6c77e1c780ad782a76",
+        "android_client_info": {
+          "package_name": "com.example.gconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26301765827-91dohjc740ssq3s7fb5ve6rhc407i0lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhY2LNps2dMCy8KMO5KELipZkRFm5kEwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26301765827-91dohjc740ssq3s7fb5ve6rhc407i0lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

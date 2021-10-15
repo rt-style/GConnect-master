@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/activity_user_edit_profile.xml" value="0.4" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/fragment_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/fragment_my_profile.xml" value="0.5858343337334934" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/fragment_user_list.xml" value="0.2" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/fragment_user_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/nav_header_user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/layout/user_list_item.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/App with login and registration/Gconnect-master/app/src/main/res/menu/user_main_page.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_add_jobs.xml" value="0.24974358974358973" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_add_post.xml" value="0.24974358974358973" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_chat_log.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.22950819672131148" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_org_edit_profile.xml" value="0.4" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_organization_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_to_see_connected_users_profile.xml" value="0.5484633569739953" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_user_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/activity_user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/app_bar_organization_main_page.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/chat_from_row.xml" value="0.1" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/chat_list_item.xml" value="0.72" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/chat_to_row.xml" value="0.1" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/connected_users_item.xml" value="0.8" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/content_organization_main_page.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_company_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_connected_users.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_jobs.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_my_profile.xml" value="0.5872442839951865" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_org_profile.xml" value="0.43373493975903615" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_registration_organization.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_registration_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_user_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.6" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/fragment_user_post.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/job_list_item.xml" value="0.72" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/nav_header_organization_main_page.xml" value="0.536" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/nav_header_user_main_page.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/notification_item.xml" value="1.0" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/user_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/layout/user_post_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/menu/activity_org_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/menu/organization_main_page.xml" value="0.264" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/UserMainPage/Gconnect-master/app/src/main/res/menu/user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/user updated/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/user updated/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/user updated/Gconnect-master/app/src/main/res/layout/fragment_login_organization.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/user updated/Gconnect-master/app/src/main/res/layout/fragment_login_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DRAMANAM/Desktop/Sprint 2 Project/user updated/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/FAHMIP/Desktop/Gconnect-master/app/src/main/res/layout/fragment_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/FAHMIP/Desktop/Gconnect-master/app/src/main/res/layout/nav_header_organization_main_page.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/FAHMIP/Desktop/Gconnect-master/app/src/main/res/layout/nav_header_user_main_page.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/FAHMIP/Desktop/Gconnect-master/app/src/main/res/layout/recycler_item.xml" value="0.1" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/layout/activity_registration.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/layout/activity_splash_screen.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/layout/fragment_login_organization.xml" value="0.67" />
+        <entry key="..\:/Users/Kiko/Desktop/Project/Gconnect/app/src/main/res/layout/fragment_login_user.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_add_jobs.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_add_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_chat_log.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_org_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_organization_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_to_see_connected_users_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_user_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/activity_user_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/app_bar_organization_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/app_bar_user_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/chat_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/connected_users_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/content_organization_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/content_user_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_company_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_connected_users.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_jobs.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_my_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_notification.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_org_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_registration_organization.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_registration_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_user_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/fragment_user_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/job_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/nav_header_organization_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/nav_header_user_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/notification_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/recycler_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/user_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/layout/user_post_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/menu/activity_org_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/menu/connection_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/menu/organization_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Kiko/Downloads/Gconnect-master/app/src/main/res/menu/user_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PBRAJMOH/AndroidStudioProjects/Sprint2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/PBRAJMOH/AndroidStudioProjects/Sprint2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/PBRAJMOH/AndroidStudioProjects/Sprint2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/AndroidStudioProjects/Sprint2/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/PBRAJMOH/AndroidStudioProjects/Sprint2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/fragment_company_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/fragment_login_organization.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/fragment_login_user.xml" value="0.2" />
+        <entry key="..\:/Users/PBRAJMOH/Downloads/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.6" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/activity_user_edit_profile.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/content_user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_company_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_edit_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_jobs.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_login_organization.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_login_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/fragment_user_post.xml" value="0.1" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/layout/nav_header_user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV2/Gconnect-master (2)/Gconnect-master/app/src/main/res/menu/user_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV3/Gconnect-master (4)/Gconnect-master/app/src/main/res/layout/fragment_user_list.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV3/Gconnect-master (4)/Gconnect-master/app/src/main/res/layout/user_list_item.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (11)/Gconnect-master/app/src/main/res/layout/activity_org_edit_profile.xml" value="0.536" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (11)/Gconnect-master/app/src/main/res/layout/fragment_jobs.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (11)/Gconnect-master/app/src/main/res/layout/fragment_org_profile.xml" value="0.6" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (11)/Gconnect-master/app/src/main/res/layout/job_list_item.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (11)/Gconnect-master/app/src/main/res/menu/connection_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/layout/fragment_notification.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/layout/fragment_registration_organization.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/layout/fragment_registration_user.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/layout/notiification_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV4/Gconnect-master (5)/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/activity_add_post.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/fragment_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/fragment_jobs.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/fragment_user_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/fragment_user_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/job_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/recycler_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/user_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/layout/user_post_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/GconnectV5/Gconnect-master/app/src/main/res/menu/activity_org_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/activity_login.xml" value="0.6" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/activity_registration.xml" value="0.176" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/fragment_company_login.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/fragment_login_organization.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/fragment_login_user.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/RANILTHU/Apps/Project/Gconnect-master/app/src/main/res/layout/fragment_user_login.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home_page">
+
+    <fragment
+        android:id="@+id/nav_home_page"
+        android:name="com.example.gconnect.ui.HomePage.HomePageFragment"
+        android:label="@string/menu_Home"
+        tools:layout="@layout/fragment_my_profile" />
+
+    <fragment
+        android:id="@+id/nav_list"
+        android:name="com.example.gconnect.ui.list.UserListFragment"
+        android:label="@string/menu_list"
+        tools:layout="@layout/fragment_user_list" />
+
+    <fragment
+        android:id="@+id/nav_jobs"
+        android:name="com.example.gconnect.ui.jobs.UserJobFragment"
+        android:label="@string/menu_jobs"
+        tools:layout="@layout/fragment_jobs" />
+    <fragment
+        android:id="@+id/nav_post"
+        android:name="com.example.gconnect.ui.posts.UserPostFragment"
+        android:label="@string/menu_posts"
+        tools:layout="@layout/fragment_user_post" />
+    <fragment
+        android:id="@+id/nav_MYProfile"
+        android:name="com.example.gconnect.ui.MyProfile.MyProfileFragment"
+        android:label="My Profile"
+        tools:layout="@layout/fragment_my_profile" />
+    <fragment
+        android:id="@+id/nav_notification"
+        android:name="com.example.gconnect.ui.Notification.NotificationFragment"
+        android:label="Notification"
+        tools:layout="@layout/fragment_notification" />
+    <fragment
+        android:id="@+id/nav_connection"
+        android:name="com.example.gconnect.ui.Connections.ConnectedUsersFragment"
+        android:label="Connections"
+        tools:layout="@layout/fragment_connected_users" />
+    <fragment
+        android:id="@+id/nav_orgProfile"
+        android:name="com.example.gconnect.OrgProfile.OrgProfileFragment"
+        android:label="My Profile"
+        tools:layout="@layout/fragment_org_profile" />
+</navigation>
